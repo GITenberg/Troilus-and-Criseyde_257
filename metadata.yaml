@@ -1,0 +1,29 @@
+_repo: Troilus-and-Criseyde_257
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chaucer, Geoffrey
+    alias: Chaucer, Jeffrey
+    birthdate: 1342
+    deathdate: 1400
+    gutenberg_agent_id: '144'
+    url: http://www.gutenberg.org/2009/agents/144
+    wikipedia: http://en.wikipedia.org/wiki/Geoffrey_Chaucer
+description: ''
+gutenberg_issued: '1995-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Troy (Extinct city) -- Poetry'
+- !lcsh 'Trojan War -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Cressida (Fictitious character) -- Poetry'
+- !lcsh 'Troilus (Legendary character) -- Poetry'
+- GITenberg
+title: Troilus and Criseyde
+url: http://www.gutenberg.org/ebooks/257
